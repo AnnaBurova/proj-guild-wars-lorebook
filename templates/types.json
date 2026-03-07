@@ -1,0 +1,13 @@
+{
+  "namespace": "Main",
+  "page_id": 0,
+  "title": "Story Name",
+  "content": [
+    {
+      "type": "paragraph"
+    }, {
+      "text_en": "",
+      "type": "text"
+    }
+  ]
+}
