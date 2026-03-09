@@ -4,10 +4,23 @@
   "title": "Story Name",
   "content": [
     {
+    }, {
       "type": "paragraph"
     }, {
       "text_en": "",
       "type": "text"
+    }, {
+      "url": "",
+      "alt_en": "",
+      "type": "imagefull"
+    }, {
+      "url": "",
+      "alt_en": "",
+      "type": "imageright"
+    }, {
+      "url": "",
+      "alt_en": "",
+      "type": "imageleft"
     }
   ]
 }
