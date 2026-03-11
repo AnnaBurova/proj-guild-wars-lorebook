@@ -10,17 +10,31 @@
       "text_en": "",
       "type": "text"
     }, {
+      "type": "paragraph"
+    }, {
       "url": "",
       "alt_en": "",
       "type": "imagefull"
+    }, {
+      "type": "paragraph"
+    }, {
+      "text_en": "",
+      "type": "text"
     }, {
       "url": "",
       "alt_en": "",
       "type": "imageright"
     }, {
+      "type": "paragraph"
+    }, {
       "url": "",
       "alt_en": "",
       "type": "imageleft"
+    }, {
+      "text_en": "",
+      "type": "text"
+    }, {
+      "type": "paragraph"
     }
   ]
 }
